@@ -19,4 +19,7 @@ public abstract class Queen extends Piece {
         return nextMovements;
     }
 
+
+
+
 }
